@@ -1,7 +1,7 @@
 ### Saalve !! Sou o Rapha 😜
 
 - 💻 Ciência da Computação 2/8
-- 📚 Estudando Atualmente Banco de Dados
+- 📚 Estudando Atualmente PHP
 - 🤖 Apaixonado por games e IA
 
 <div align="center">
@@ -12,6 +12,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Rapha-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rapha-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Rapha-Mysql" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/919/919836.png">
 </div>
   
   ##
