@@ -1,8 +1,13 @@
 ### Saalve !! Sou o Rapha 😜
 
 - 💻 Ciência da Computação 2/8
-- 📚 Estudando Atualmente PHP
-- 🤖 Apaixonado por games e IA
+- 📅 26 Anos
+- 🏖️ Carioca
+
+
+- Lógica de Programação [Curso em Vídeo - Gustavo Guanabara]
+- Banco de Dados MySQL [Curso em Vídeo - Gustavo Guanabara]
+- Python [Curso em Vídeo - Gustavo Guanabara]
 
 <div align="center">
   <a href="https://github.com/RaphaelDanil">
