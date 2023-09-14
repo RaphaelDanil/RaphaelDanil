@@ -1,7 +1,6 @@
 ### Saalve !! Sou o Rapha 😜
 
-- 💻 Ciência da Computação 3/8
-- 💻 Engenharia de Software 1/8
+- 💻 Ciência da Computação 4/8
 - 📅 27 Anos
 - 🏖️ Carioca
 
@@ -9,6 +8,11 @@
 - Lógica de Programação [Curso em Vídeo - Gustavo Guanabara]
 - Banco de Dados MySQL [Curso em Vídeo - Gustavo Guanabara]
 - Python [Curso em Vídeo - Gustavo Guanabara]
+- Delphi
+- JavaScript
+- C#
+- WebApi .NET 8.0
+
 
 <div align="center">
   <a href="https://github.com/RaphaelDanil">
