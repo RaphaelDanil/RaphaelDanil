@@ -9,7 +9,7 @@
 - Banco de Dados MySQL [Curso em Vídeo - Gustavo Guanabara]
 - Python [Curso em Vídeo - Gustavo Guanabara]
 - Delphi
-- JavaScript
+- JavaScript [Cod3r]
 - C#
 - WebApi .NET 8.0
 
